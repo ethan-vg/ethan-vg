@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethan-vg
 
-Currenlty, I'm a computer science student in university.
+I'm currenlty a CS/STEM student.
 
 <!---
 ethan-vg/ethan-vg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
